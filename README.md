@@ -3,9 +3,6 @@
 <body>
 <html>
 	<center>
-
-			<h1>Exercicio Herança Utilizando a UML</h1><p>
-		
 <h3>Passo a passo para criar um projeto no NetBeans, utilizando o conceito de Herança da Programação Orientada a Objetos - JAVA - <p>
 	Dentro do arquivo: HerancaAnimal.zip contém o código em java e a UML para ser seguida.</h3><p>
 <h2>Classe Mãe: Animal<p>
