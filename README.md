@@ -1,6 +1,8 @@
 # ExerciciosJavaPOO
 UML herança
           **Exercicio Herança**
+Dentro do arquivo: HerancaAnimal.zip contém o código em java e a uml.
+
 
 Classe Mãe: Animal
 Classes Filhas: Cachorro, Gato e PicaPau
