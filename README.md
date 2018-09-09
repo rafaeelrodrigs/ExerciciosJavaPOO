@@ -14,6 +14,7 @@
 			4-Implemente a classe Filha PicaPau;<p>
 			5-Crie a classe Teste e implemente-a;<p>
 		</h3>
+	Implementando o código no netbeans, video no youtube: https://youtu.be/YHK-YTAyNgA
 </center>
 </body>
 </html>
