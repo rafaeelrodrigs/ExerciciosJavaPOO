@@ -1,6 +1,8 @@
 # ExerciciosJavaPOO
-UML herança
+<p>
+UML herança<p>
           **Exercicio Herança**
+          <p>
 Dentro do arquivo: HerancaAnimal.zip contém o código em java e a uml.
 
 
