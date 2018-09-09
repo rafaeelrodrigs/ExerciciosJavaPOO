@@ -3,12 +3,11 @@
 UML herança<p>
           **Exercicio Herança**
           <p>
-Dentro do arquivo: HerancaAnimal.zip contém o código em java e a uml.
-
-
-Classe Mãe: Animal
+Dentro do arquivo: HerancaAnimal.zip contém o código em java e a UML para ser seguida.
+Classe Mãe: Animal <p>
 Classes Filhas: Cachorro, Gato e PicaPau
-
+Passo a passo para criar um projeto no NetBeans, utilizando o conceito de Herança da Programação Orientada a Objetos - JAVA - 
+<hr>
 1-Implemente a classe Mãe Animal;
 
 2-Implemente a classe Filha Cachorro;
@@ -19,7 +18,3 @@ Classes Filhas: Cachorro, Gato e PicaPau
 
 5-Crie a classe Teste e implemente-a;
 
-
-
-
-Passo a passo para criar um projeto no NetBeans,utilizando o conceito de Herança da Programação Orientada a Objetos - JAVA - 
